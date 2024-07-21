@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.65c6dfdc.js";import{G as a,H as s,I as t,R as o}from"./index.c865f0e2.js";import"./render.f1930b0f.js";var r="/assets/The99LAB.2df96759.png";const c=o("img",{alt:"Quasar logo",src:r},null,-1),f=Object.assign({name:"HomePage"},{__name:"HomePage",setup(_){return(m,n)=>(a(),s(e,{class:"flex flex-center"},{default:t(()=>[c]),_:1}))}});export{f as default};
